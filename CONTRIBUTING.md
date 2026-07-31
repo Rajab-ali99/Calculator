@@ -1,15 +1,8 @@
 # Contributing
 
-Thank you for considering contributing to this project!
+Thank you for your interest in contributing to this project.
 
-We welcome all kinds of contributions, including:
-
-- Bug reports
-- Bug fixes
-- Documentation improvements
-- Enhancements
-- New features
-- Ideas for improving the project
+**All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.**
 
 ## How to Contribute
 
@@ -17,7 +10,7 @@ We welcome all kinds of contributions, including:
 2. Create a new branch.
 3. Make your changes.
 4. Commit your changes.
-5. Push the branch to your fork.
-6. Open a Pull Request.
+5. Push your changes to your fork.
+6. Submit a Pull Request.
 
-We appreciate your time and effort in making this project better!
+We appreciate your time and effort in helping improve this project.
